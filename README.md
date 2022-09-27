@@ -1,2 +1,2 @@
-# UFC-model 🥊
-UFC fight outcome ML project made during STRV Data Science Academy 
+# UFC Fight Outcome Prediction Model 🥊
+Project I worked on during my STRV Data Science Academy  🎓 engagement.
