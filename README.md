@@ -8,7 +8,7 @@ Project I worked on within my STRV Data Science Academy  🎓 engagement.
 * 🤖 application of machine learning model for fight outcome prediction
 
 🔨Toolset:
-* requests, BeautifoulSoup
+* requests, BeautifulSoup
 * pandas
 * pandas, numpy, matplotlib, seaborn
 * scikit-learn
