@@ -10,7 +10,7 @@ dependencies:
   - notebook
   - pandas
   - scikit-learn
-  - request
+  - requests
   - seaborn
   - pip:
       - see  # an example of package installed using pip as it is not available on conda
