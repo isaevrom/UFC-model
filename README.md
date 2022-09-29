@@ -1,5 +1,5 @@
 # UFC Fight Outcome Prediction Model 🥊
-Project I worked on within my STRV Data Science Academy  🎓 engagement.
+Project I worked on within my [STRV Data Science Academy](https://www.strv.com/academy/data-science)  🎓 engagement.
 
 📝 Project objectives:
 * 🕸️ scrapping [data](http://www.ufcstats.com/statistics/events/completed)
